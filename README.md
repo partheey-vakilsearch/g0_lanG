@@ -1,2 +1,2 @@
 # g0_lanG
-I
+My repo for trying out Golang.
